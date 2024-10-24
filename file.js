@@ -7,7 +7,7 @@ const secretKey = "mykey.11334422";
 app.use(bodyParser.json());
 // New added data start
 const AllUsrDATA = {
-  kashif: {
+  ali: {
     email: "ali@gmail.com",
     password: "ali.112233",
     posts: [
@@ -50,7 +50,7 @@ const AllUsrDATA = {
   },
 
   // 2nd data is start
-  ali: {
+  bilal: {
     email: "bilal@gmail.com",
     password: "b.11223",
     posts: [
@@ -92,7 +92,7 @@ const AllUsrDATA = {
     ],
   },
   //   third key start
-  haroon: {
+  meesum: {
     email: "meesum@gmail.com",
     password: "m.11233",
     posts: [
